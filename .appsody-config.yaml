@@ -1,0 +1,3 @@
+id: "20200525104134.88155710"
+project-name: sample-appsody-springboot
+stack: docker.io/appsody/java-spring-boot2:0.3
